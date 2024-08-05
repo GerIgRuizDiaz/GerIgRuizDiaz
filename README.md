@@ -1,16 +1,39 @@
-## Hi there 👋
+# ¡Hola, soy German Ruiz Diaz! 👋
 
-<!--
-**GerIgRuizDiaz/GerIgRuizDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador web apasionado por crear aplicaciones eficientes y fáciles de usar. Me especializo en el desarrollo de aplicaciones web con tecnologías modernas y me esfuerzo constantemente por mejorar mis habilidades y aprender nuevas tecnologías.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Actualmente, estoy aprendiendo más sobre desarrollo full-stack y prácticas avanzadas de UX/UI.
+- 🎓 Graduado en FullStack por Henry.
+- 💬 Pregúntame sobre JavaScript, React, Node.js, y cualquier cosa relacionada con el desarrollo web.
+
+
+## Habilidades Técnicas
+
+- **Lenguajes de Programación**: JavaScript, TypeScript, HTML, CSS
+- **Frameworks/Librerías**: React.js, Node.js, Express.js
+- **Bases de Datos**: SQL, MongoDB
+- **Herramientas**: Git, Docker, Webpack
+- **Metodologías**: Agile, Scrum
+- **Otros**: Diseño UX/UI, Responsive Design, APIs RESTful
+
+## Contacto
+
+- **Correo electrónico**: germanruizdi@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/german-ignacio-ruiz-diaz-a8b74a212/
+-
+
+## Otros Intereses
+
+- Tecnología y desarrollo de software
+- Diseño y experiencia de usuario
+- Ciencia de datos
+- Inteligencia artificial y aprendizaje automático
+- Viajar y conocer nuevas culturas
+
+
+---
+
+¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta o simplemente quieres decir hola, no dudes en contactarme.
+
